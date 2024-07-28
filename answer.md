@@ -1,5 +1,3 @@
-now for a step-by-step explanation:
-
 ### Importing Necessary Modules
 ```python
 import os
