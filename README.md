@@ -19,8 +19,8 @@ This Python script allows you to rename files in a specified directory with a gi
 1. **Clone the repository or download the script**:
 
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/Mclawrenceco/growing-guacamole.git 
+    cd growing-guacamole
     ```
 
 2. **Ensure you have Python installed**:
